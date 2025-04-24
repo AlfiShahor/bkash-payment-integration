@@ -1,0 +1,20 @@
+# Ignore the vendor folder created by Composer
+/vendor/
+
+# Ignore .env file for sensitive credentials
+.env
+
+# Ignore configuration files (you can add more specific files)
+config.php
+
+# Ignore IDE files and editor-specific settings
+/.idea/
+/.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore log files
+*.log
+
+# Ignore cache files
+/cache/
